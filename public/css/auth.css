@@ -1,0 +1,30 @@
+.login-container {
+  width: 600px;
+}
+.signup-container {
+  width: 600px;
+  margin-top:50px;
+}
+.login-vendor-link {
+  font-size:52px;
+  color:rgba(255, 255, 255, 0.8);
+  padding: 20px;
+}
+.login-vendor-link:hover {
+  color:white;
+   text-shadow: 0 0 8px rgba(255, 255, 255, 1);
+}
+.forgot-container {
+	padding: 30px;
+}
+.forgot-body-container {
+	height: 300px;
+}
+.forgot-body-left {
+	height: 100%;
+	border-radius: 5px 0px 0px 5px;
+}
+.forgot-form-container {
+	margin-top: 70px;
+	width: 400px;
+}
